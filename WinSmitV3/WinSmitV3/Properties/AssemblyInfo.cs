@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("WinSmitV3")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("OAG Worldwide Ltd")]
+
 [assembly: AssemblyProduct("WinSmitV3")]
 
 [assembly: AssemblyTrademark("")]
