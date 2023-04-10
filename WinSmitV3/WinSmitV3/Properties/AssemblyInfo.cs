@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("OAG Worldwide Ltd")]
 [assembly: AssemblyProduct("WinSmitV3")]
-[assembly: AssemblyCopyright("Copyright © OAG Worldwide Ltd 2007")]
+
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
