@@ -1,0 +1,13 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WinSmitV3.Properties.Resources.resources
+obj\Debug\WinSmitV3.csproj.GenerateResource.Cache
+bin\Debug\WinSmitV3.exe
+bin\Debug\WinSmitV3.pdb
+obj\Debug\WinSmitV3.exe
+obj\Debug\WinSmitV3.pdb
+obj\Debug\WinSmitV3.exe.licenses
+obj\Debug\WinSmitV3.CreateProject.resources
+obj\Debug\WinSmitV3.Form1.resources
+obj\Debug\WinSmitV3.Form2.resources
+obj\Debug\WinSmitV3.Form3.resources
+obj\Debug\WinSmitV3.WinSmit.resources

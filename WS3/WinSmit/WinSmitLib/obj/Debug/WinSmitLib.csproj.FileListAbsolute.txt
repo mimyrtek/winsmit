@@ -1,0 +1,5 @@
+C:\WS3\WinSmit\WinSmitLib\bin\Debug\WinSmitLib.dll
+C:\WS3\WinSmit\WinSmitLib\bin\Debug\WinSmitLib.pdb
+C:\WS3\WinSmit\WinSmitLib\obj\Debug\ResolveAssemblyReference.cache
+C:\WS3\WinSmit\WinSmitLib\obj\Debug\WinSmitLib.dll
+C:\WS3\WinSmit\WinSmitLib\obj\Debug\WinSmitLib.pdb

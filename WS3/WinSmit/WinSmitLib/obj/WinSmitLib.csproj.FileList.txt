@@ -1,0 +1,5 @@
+bin\Debug\WinSmitLib.dll
+bin\Debug\WinSmitLib.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WinSmitLib.dll
+obj\Debug\WinSmitLib.pdb

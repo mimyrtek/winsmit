@@ -1,0 +1,10 @@
+M:\WS3\WinSmit\WinSmitLib\bin\Release\WinSmitLib.dll
+M:\WS3\WinSmit\WinSmitLib\bin\Release\WinSmitLib.pdb
+M:\WS3\WinSmit\WinSmitLib\obj\Release\ResolveAssemblyReference.cache
+M:\WS3\WinSmit\WinSmitLib\obj\Release\WinSmitLib.dll
+M:\WS3\WinSmit\WinSmitLib\obj\Release\WinSmitLib.pdb
+M:\WS3\WinSmit\WinSmitLib\bin\Debug\WinSmitLib.dll
+M:\WS3\WinSmit\WinSmitLib\bin\Debug\WinSmitLib.pdb
+M:\WS3\WinSmit\WinSmitLib\obj\Debug\ResolveAssemblyReference.cache
+M:\WS3\WinSmit\WinSmitLib\obj\Debug\WinSmitLib.dll
+M:\WS3\WinSmit\WinSmitLib\obj\Debug\WinSmitLib.pdb
